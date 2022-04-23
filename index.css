@@ -23,6 +23,7 @@ body{
 }
 .social_media{
     top: 50%;
+    padding-top: 10%;
     /* -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%)
@@ -42,6 +43,8 @@ body{
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #322f30;
+    margin: auto;
+    border-radius: 50%;
 }
 .github:hover {
     background-color: #5a32a3;
